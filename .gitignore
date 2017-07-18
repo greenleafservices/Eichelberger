@@ -17,5 +17,6 @@
 .byebug_history
 
 eich.mdb
+eichCopy.mdb
 *.ldb
 
