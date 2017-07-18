@@ -16,8 +16,11 @@
 # Ignore Byebug command history file.
 .byebug_history
 
-eich.mdb
+# Ignore data databases and locking files
+eich*.mdb
 eichCopy.mdb
 *.ldb
+
+# Ignore MS Word temp files
 ~*.*
 
